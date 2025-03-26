@@ -51,7 +51,7 @@ const Projects = () => {
     {
       id: 6,
       title: "Dashboard Streamlit",
-      description: "A dashboard made with Streamlit that shows the analysis of a dataset.",
+      description: "Un dashboard realizado con Streamlit que muestra el análisis de un conjunto de datos.",
       imageUrl: "/DashboardStreamlit.jpeg", 
       githubLink: "https://github.com/MatiasPrietoHernan/streamlit",
       liveLink: "https://rtje9hegpctq33mfrcq6ed.streamlit.app/",
@@ -59,8 +59,8 @@ const Projects = () => {
     },
     {
       id: 7,
-      title: "Supermarket Aplication",
-      description: "A web application that allows users to manage a supermarket, sell products and print shopping receipts.",
+      title: "Supermercado VacasFood",
+      description: "Una aplicación web que permite a los usuarios gestionar un supermercado, vender productos e imprimir recibos de compra.",
       imageUrl: "/SupermercadoVacasFood.jpeg", 
       githubLink: "https://github.com/MatiasPrietoHernan/supermercado-crud",
       liveLink: "https://supermercadovacasfood.netlify.app/",
@@ -68,16 +68,16 @@ const Projects = () => {
     },
     {
       id: 8,
-      title: "Pos System",
-      description: "A Desktop application that allows users to manage a small business, sell products and print shopping receipts.",
+      title: "Sistema Pos Polirubro",
+      description: "Una aplicación de escritorio que permite a los usuarios administrar una pequeña empresa, vender productos e imprimir recibos de compra.",
       imageUrl: "/Polirubro.png", 
       githubLink: "https://github.com/AugusRojas/PolirubroNuevo",
       technologies: ["Windows Form", "SQLite3", "QuestPDF"]
     },
     {
       id: 9,
-      title: "Sales estimate made with Streamlit",
-      description: "A web application that allows users to estimate sales based on a dataset using artificial inteligence.",
+      title: "Entrenamiento de Ventas",
+      description: "Una aplicación web que permite a los usuarios estimar las ventas basándose en un conjunto de datos utilizando inteligencia artificial.",
       imageUrl: "/entrenamientoVentas.jpeg", 
       githubLink: "https://github.com/MatiasPrietoHernan/analisis-ia.git",
       liveLink: "https://matiasiaprieto.streamlit.app/",
