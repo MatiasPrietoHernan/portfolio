@@ -5,12 +5,10 @@ import {
   Instagram, 
   Linkedin, 
   Github, 
-  Twitter, 
   Mail 
 } from 'lucide-react';
 
 const Footer: React.FC = () => {
-  const currentYear = new Date().getFullYear();
 
   const socialLinks = [
     { 
